@@ -67,24 +67,6 @@
 
 ---
 
-### 📈 My GitHub Stats
-
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nazeerahmad1996&show_icons=true&theme=dark&locale=en&hide_border=true" alt="Nazeerahmad1996 Stats" />
-</div>
-<br/>
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nazeerahmad1996&show_icons=true&theme=dark&locale=en&layout=compact&hide_border=true" alt="Top Languages" />
-</div>
-<br/>
-<div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nazeerahmad1996&theme=dark&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<br/>
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Nazeerahmad1996&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
